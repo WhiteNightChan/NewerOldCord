@@ -59,9 +59,9 @@
 
 body {
 	--text-muted: #72767d;
-	--font-primary: gg sans;
-	--font-display: gg sans !important;
-	--font-headline: gg sans;
+	--font-primary: "gg sans", "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Noto Sans";
+	--font-display: "gg sans", "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Noto Sans" !important;
+	--font-headline: "gg sans", "Hiragino Sans", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Noto Sans";
 	--blurple: #5867ea;
 	--blurple-inverted: #ffffff;
 	--text-brand: var(--blurple) ;
